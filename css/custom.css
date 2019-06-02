@@ -1,0 +1,184 @@
+img.logo {
+    width: 40px;
+    height: 40px;
+}
+
+.features-10 .feature {
+    padding: 0 !important;
+    min-height: 320px !important;
+}
+
+.singapore-background {
+    background: url(../assets/images/singapore.jpg);
+    background-size: cover;
+}
+
+.hochiminh-background {
+    background: url(../assets/images/landmark81.jpg);
+    background-size: cover;
+}
+
+.hanoi-background {
+    background: url(../assets/images/hoguom.jpg);
+    background-size: cover;
+}
+
+.location-wrapper {
+    background-color: #fff;
+    opacity: 0.75;
+    padding: 2.5em 0 !important;
+    min-height: 320px !important;
+    color: #000;
+    cursor: pointer;
+}
+
+.location-wrapper h4, .location-wrapper p {
+    color: #000;
+}
+
+.location.active .location-wrapper {
+    background-color: #000 !important;
+    color: #fff !important;
+}
+
+.location.active .location-wrapper h4, .location.active .location-wrapper p {
+    color: #fff !important;
+}
+
+section, footer {
+    padding-top: 4em;
+    padding-bottom: 2.5em;
+}
+
+footer {
+    padding-top: 2.5em;
+}
+
+footer ul li span {
+    color: #000 !important;
+    font-weight: normal;
+/ / font-size: 0.65 em;
+}
+
+footer p {
+    font-weight: lighter;
+    font-style: italic;
+}
+
+footer .container .row > div:nth-child(1) {
+    text-align: center;
+}
+
+
+.location-label {
+    padding-bottom: 2.8em;
+}
+
+.or-divider {
+    display: flex;
+    align-items: center;
+}
+
+.or-divider hr {
+    border-color: #ffffff1a;
+    width: 16%;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+}
+
+.or-divider .text {
+    display: inline-block;
+    padding: 0 12px;
+}
+
+.bg--blue {
+    background: #3f51b5;
+}
+
+.medium {
+    padding-top: 2em;
+    padding-bottom: 2em;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
+.medium-widget {
+    padding-top: 0em;
+    padding-bottom: 0em;
+    padding-left: 0em;
+    padding-right: 0em;
+}
+
+nav .nav-bar {
+    padding-left: 2em;
+}
+
+.clients-section img {
+    height: 80px;
+}
+
+.slider.clients-section {
+    margin: 24px auto 0px auto !important;
+}
+
+.slider.clients-section .owl-next, .slider.clients-section .owl-prev {
+    color: #000 !important;
+    top: -30px;
+}
+
+.slider.clients-section .owl-next, .slider.clients-section .owl-dots {
+    bottom: -10px;
+}
+
+.slider.clients-section .owl-next, .slider.clients-section .owl-dots .owl-dot span {
+    background-color: rgba(34, 34, 34, 0.4);
+}
+
+.slider.clients-section .owl-next, .slider.clients-section .owl-dots .owl-dot.active span {
+    background-color: #000;
+}
+
+.clients-section.slider {
+    height: 80;
+}
+
+.clients-section.slider .slides li {
+    height: auto;
+    padding: 0;
+}
+
+.member img {
+    width: 100%;
+    height: 100%;
+    border-radius: 5%;
+}
+
+.clients-section mobile {
+
+}
+
+.cover-3 .pos-bottom {
+    margin-bottom: 6.75em;
+}
+
+nav {
+    position: fixed !important; 
+    top: 0; 
+    width: 100%; 
+    background-color: #f8f8f8;
+}
+
+.menu > li ul {
+  background: #f0f0f0 !important;
+}
+
+.menu > li ul li a {
+  padding-left: 0;
+  width: 100%;
+  color: #353535 !important;
+}
+
+.main-container {
+  margin-top: 65px !important;
+}
