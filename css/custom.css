@@ -163,22 +163,22 @@ nav .nav-bar {
 }
 
 nav {
-    position: fixed !important; 
-    top: 0; 
-    width: 100%; 
+    position: fixed !important;
+    top: 0;
+    width: 100%;
     background-color: #f8f8f8;
 }
 
 .menu > li ul {
-  background: #f0f0f0 !important;
+    background: #f0f0f0 !important;
 }
 
 .menu > li ul li a {
-  padding-left: 0;
-  width: 100%;
-  color: #353535 !important;
+    padding-left: 0;
+    width: 100%;
+    color: #353535 !important;
 }
 
 .main-container {
-  margin-top: 65px !important;
+    margin-top: 65px !important;
 }
